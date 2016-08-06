@@ -1,0 +1,28 @@
+_repo: Tip-Lewis-and-His-Lamp_9648
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pansy
+    alias: Alden, Isabella Macdonald
+    birthdate: 1841
+    deathdate: 1930
+    gutenberg_agent_id: '4482'
+    url: http://www.gutenberg.org/2009/agents/4482
+    wikipedia: http://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Behavior -- Juvenile fiction'
+- GITenberg
+title: Tip Lewis and His Lamp
+url: http://www.gutenberg.org/ebooks/9648
